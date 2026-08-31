@@ -39,7 +39,7 @@ This project demonstrates a modular architecture for building scalable AI applic
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/rag-bot.git
+git clone https://github.com/hum4nBeing/PDF_RAG
 cd rag-bot
 ```
 
